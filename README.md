@@ -6,9 +6,11 @@ Changed walk speed to 8, Sprint to 12, Jump height to 2
 
 Added a coin player need to jump trough hazard.
 
-Added a coin player need to parkou to get.
+Added a coin player need to parkour to get.
 
 Added a coin player need to sprint jump to get. 
+
+Issue - There would be a problem on changing the view.
 
 
 
