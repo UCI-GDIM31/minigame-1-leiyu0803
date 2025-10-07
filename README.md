@@ -12,7 +12,7 @@ Added a coin player need to sprint jump to get.
 
 Issue - There would be a problem on changing the view.
 
-
+Components like a leg added to the GameObjects, you can add some function to GameObjects.
 
 ## Open-Source Assets
 - Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
