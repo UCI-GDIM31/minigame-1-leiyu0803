@@ -1,18 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d-DorLAf)
+
 # minigame-1
 ## Devlog
 
-Changed walk speed to 8, Sprint to 12, Jump height to 2
-
-Added a coin player need to jump trough hazard.
-
-Added a coin player need to parkour to get.
-
-Added a coin player need to sprint jump to get. 
-
-Issue - There would be a problem on changing the view.
-
-Components like a leg added to the GameObjects, you can add some function to GameObjects.
+Sense is a Stage, where all the GameObject will be here. GameObjects are the actors and props placed on that stage. This include all the setup and actor. Components are the things the actor can do, like script of the show.
 
 ## Open-Source Assets
 - Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
